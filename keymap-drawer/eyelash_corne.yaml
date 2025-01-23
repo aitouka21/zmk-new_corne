@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - $$mdi:apple-keyboard-control$$
   - A
   - S
   - D
@@ -198,7 +198,5 @@ layers:
 combos:
 - p: [16, 17]
   k: $$mdi:keyboard-esc$$
-- p: [14, 15]
-  k: $$mdi:apple-keyboard-control$$
 - p: [1, 2]
   k: $$mdi:keyboard-tab$$
