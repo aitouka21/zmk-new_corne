@@ -1,6 +1,7 @@
+layout: {zmk_keyboard: eyelash_corne}
 layers:
   QWERTY:
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - $$mdi:keyboard-tab$$
   - Q
   - W
   - E
@@ -198,5 +199,3 @@ layers:
 combos:
 - p: [16, 17]
   k: $$mdi:keyboard-esc$$
-- p: [1, 2]
-  k: $$mdi:keyboard-tab$$
